@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "finnfoden-eZhq.aternos.me",
+    "port": 29248,
     "version": "",
     "try-creative": false
   },
